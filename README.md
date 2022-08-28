@@ -1,19 +1,12 @@
-### Hi there 👋
-
+### Hi there! 😊
 
 I'm Thaís and I am a Front-End developer currently enrolled in the Kenzie Academy Brasil fullstack developer bootcamp. 
 
 I like to read science fiction and play with my cat Banguela 🐈‍⬛
 
-##
+
 - 💻 I’m currently working with React and Typescript
 - 💬 Ask me about my recent projects, by contract they are all private but I would be happy to share and get your inputs on my work
-##
-
-<div style="display: flex; flex-direction: row;">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=thaisalesz&count_private=true&theme=cobalt&show_icons=true">
-<img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisalesz&layout=compact&theme=cobalt">
-</div>
 
 
 ##
@@ -28,6 +21,14 @@ I'm pretty comfortable with
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />             
 
 </div>
+
+#
+<div style="display: flex; flex-direction: row;">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=thaisalesz&count_private=true&theme=cobalt&show_icons=true">
+<img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisalesz&layout=compact&theme=cobalt">
+</div>
+
+
           
 ##
 
