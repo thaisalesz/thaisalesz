@@ -5,7 +5,7 @@ I'm Thaís and I am a Front-End developer currently enrolled in the Kenzie Acade
 I like to read science fiction and play with my cat Banguela 🐈‍⬛
 
 
-- 💻 I’m currently working with React and Typescript
+- 💻 I’m currently working with Node and Typescript
 - 💬 Ask me about my recent projects, by contract they are all private but I would be happy to share and get your inputs on my work
 
 
