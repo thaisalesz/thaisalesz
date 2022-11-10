@@ -22,6 +22,10 @@ I'm pretty comfortable with
 
 </div>
 
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,jest,postgres)](https://skillicons.dev)
+</div>
+
 #
 <div style="display: flex; flex-direction: row;">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thaisalesz&count_private=true&theme=cobalt&show_icons=true">
