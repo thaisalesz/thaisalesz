@@ -1,6 +1,6 @@
 ### Hi there! 😊
 
-I'm Thaís and I am a Front-End developer currently enrolled in the Kenzie Academy Brasil fullstack developer bootcamp. 
+I'm Thaís and I am a Fullstack developer currently enrolled in the Kenzie Academy Brasil fullstack developer bootcamp. 
 
 I like to read science fiction and play with my cat Banguela 🐈‍⬛
 
