@@ -29,7 +29,7 @@ I'm pretty comfortable with
 #
 <div style="display: flex; flex-direction: row;">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thaisalesz&count_private=true&theme=cobalt&show_icons=true">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisalesz&layout=compact&theme=cobalt">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisalesz&layout=compact&theme=cobalt"> 
 </div>
 
 
