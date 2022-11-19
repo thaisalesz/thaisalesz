@@ -6,7 +6,7 @@ I like to read science fiction and play with my cat Banguela 🐈‍⬛
 
 
 - 💻 I’m currently working with Node and Typescript
-- 💬 Ask me about my recent projects, by contract they are all private but I would be happy to share and get your inputs on my work
+- 💬 Ask me about my recent projects, I will be happy to get your inputs on my work
 
 
 ##
